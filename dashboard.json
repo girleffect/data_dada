@@ -1,0 +1,104 @@
+{
+  "dashboards": [
+    {
+      "title": "Global Chatbot dashboard",
+      "description": "Live version",
+      "url": "url_here"
+    },
+    {
+      "title": "Global Chatbot dashboard",
+      "description": "Dev version",
+      "url": "url_here"
+    },
+    {
+      "title": "Global Chatbots Flows",
+      "description": "Flow metrics and analysis",
+      "url": "url_here"
+    },
+    {
+      "title": "Kenya Country chatbot",
+      "description": "Country dashboard with metrics from digital platforms in Kenya, including Chatbot, Meta, Website, and YouTube",
+      "url": "url_here"
+    },
+    {
+      "title": "Wysa dashboard",
+      "description": "Metrics and insights for Wysa chatbot",
+      "url": "url_here"
+    },
+    {
+      "title": "Big Sis: chatbot metrics & specific flows",
+      "description": "Performance metrics and analysis of specific Big Sis chatbot flows",
+      "url": "url_here"
+    },
+    {
+      "title": "Bol Behen: Hinglish NLP",
+      "description": "Performance of Hinglish NLP and user submissions in Bol Behen",
+      "url": "url_here"
+    },
+    {
+      "title": "General PTI Analytics",
+      "description": "General PTI analytics board covering IN, SA, KE metrics for chatbots, including unique users and platform distribution",
+      "url": "url_here"
+    },
+    {
+      "title": "PTI Funnel",
+      "description": "Unique user metrics through PTI IN and SA funnel",
+      "url": "url_here"
+    },
+    {
+      "title": "Specific Flow Access",
+      "description": "Metrics for unique users starting and/or completing specific message sets in any of the three chatbots",
+      "url": "url_here"
+    },
+    {
+      "title": "Quizzes",
+      "description": "TBD",
+      "url": "url_here"
+    },
+    {
+      "title": "GAVI Social Media",
+      "description": "Supports monthly and quarterly reporting for GAVI ET and TZ social media metrics",
+      "url": "url_here"
+    },
+    {
+      "title": "Wazzii USSD",
+      "description": "Detailed view of Wazzii USSD metrics",
+      "url": "url_here"
+    },
+    {
+      "title": "Ethiopia Discussion Analysis",
+      "description": "Analysis of Ethiopia's discussion program",
+      "url": "url_here"
+    },
+    {
+      "title": "Big Sis Dashboard: Recreated from Weni team",
+      "description": "Metrics recreated from Weni team's implementation",
+      "url": "url_here"
+    },
+    {
+      "title": "Wazzii Chatbot",
+      "description": "Performance and metrics of Wazzii chatbot",
+      "url": "url_here"
+    },
+    {
+      "title": "Mini Bobe",
+      "description": "Metrics and insights for Mini Bobe",
+      "url": "url_here"
+    },
+    {
+      "title": "Bol Behen: Recreated from Weni",
+      "description": "Recreated metrics and flows for Bol Behen",
+      "url": "url_here"
+    },
+    {
+      "title": "MSSA",
+      "description": "Performance and analytics for MSSA program",
+      "url": "url_here"
+    },
+    {
+      "title": "Girl Champions",
+      "description": "Proof of concept report for the Girl Champions program across all countries, with individual champion performance",
+      "url": "url_here"
+    }
+  ]
+}
