@@ -3,102 +3,92 @@
     {
       "title": "Global Chatbot dashboard",
       "description": "Live version",
-      "url": "url_here"
-    },
-    {
-      "title": "Global Chatbot dashboard",
-      "description": "Dev version",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiZmI0MjRiMGMtMzEzYy00YTdkLTkwNDktYzI3ZDkxYmE1ZGUxIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Global Chatbots Flows",
       "description": "Flow metrics and analysis",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMzg0MTA0YjktYjk1YS00NDM3LWJhNjgtY2YyY2EzMGMxOGVmIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Kenya Country chatbot",
       "description": "Country dashboard with metrics from digital platforms in Kenya, including Chatbot, Meta, Website, and YouTube",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNzQzOGMxNjUtN2E0Ni00NDAzLTgzODgtNzQ1Zjg5ZDNlYWY1IiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Wysa dashboard",
       "description": "Metrics and insights for Wysa chatbot",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYjg0ZThiZGUtYjM0Zi00ZTY4LWJjY2ItNzBhYjhjZWZlZTY2IiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Big Sis: chatbot metrics & specific flows",
       "description": "Performance metrics and analysis of specific Big Sis chatbot flows",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiY2Y4NjUzMDUtNTdjOC00MTkwLWE5MjAtMDVkYWE1NTZmMTQzIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Bol Behen: Hinglish NLP",
       "description": "Performance of Hinglish NLP and user submissions in Bol Behen",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiY2Y4NjUzMDUtNTdjOC00MTkwLWE5MjAtMDVkYWE1NTZmMTQzIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "General PTI Analytics",
       "description": "General PTI analytics board covering IN, SA, KE metrics for chatbots, including unique users and platform distribution",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNzRiNDk0YzAtZjE3My00ZDU1LWE0ZDctMDQ0ZmJkNDM1Mzk1IiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "PTI Funnel",
       "description": "Unique user metrics through PTI IN and SA funnel",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiOTM0YjRlMzMtMDJkOC00NWExLWIyZDEtMGYyMWJhNTg2YzBkIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Specific Flow Access",
       "description": "Metrics for unique users starting and/or completing specific message sets in any of the three chatbots",
-      "url": "url_here"
-    },
-    {
-      "title": "Quizzes",
-      "description": "TBD",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYjE0MjdiYTAtMGNiYi00YzBiLWFiNjgtMDI5NzRkNWVlYzlmIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "GAVI Social Media",
       "description": "Supports monthly and quarterly reporting for GAVI ET and TZ social media metrics",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMjc5ODIwMDMtNDJjYS00Yzg4LTllZGMtOGFlZTI1NWFjN2U5IiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Wazzii USSD",
       "description": "Detailed view of Wazzii USSD metrics",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiY2QzMzM5ZGYtMDc5My00YzA3LThjN2EtZjZhMzZkM2ZjMTkxIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Ethiopia Discussion Analysis",
       "description": "Analysis of Ethiopia's discussion program",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNTU1OThkNjYtMDZjMi00NTQ5LWI3MGItNjU1ZGYzYWRlYjVkIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Big Sis Dashboard: Recreated from Weni team",
       "description": "Metrics recreated from Weni team's implementation",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMDM3YmNiMzItNWFhYS00NzFmLTk0MDktMTllNmQ0MGI1MzRjIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Wazzii Chatbot",
       "description": "Performance and metrics of Wazzii chatbot",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMWYyOTE2M2MtYTM2ZC00NzI2LTgyOTctN2VmYWE0MTQxNGFmIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Mini Bobe",
       "description": "Metrics and insights for Mini Bobe",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiY2UwZmIwNDMtYzk5Mi00ZmE0LWIwOTctZDFkYTQzYzU1MTZhIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Bol Behen: Recreated from Weni",
       "description": "Recreated metrics and flows for Bol Behen",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYTMyZDM4MTAtYzEwMy00ZTExLTk3ZDUtNDFkMjg1NTQxOTFjIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "MSSA",
       "description": "Performance and analytics for MSSA program",
-      "url": "url_here"
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiNTVlZTg5Y2UtNWFjMC00YmQ5LTk5MGMtMDQ3NDM4ZmI4MmYwIiwidCI6IjYwOTQ5ZTc2LTNlZDEtNDc2OS1iMTllLTZmMzQyNjFmMzZjMSJ9"
     },
     {
       "title": "Girl Champions",
       "description": "Proof of concept report for the Girl Champions program across all countries, with individual champion performance",
-      "url": "url_here"
+      "url": "https://lookerstudio.google.com/reporting/3df2bcc4-71f8-4bb8-9a7e-0638d1586b24/page/NlO9D"
     }
   ]
 }
